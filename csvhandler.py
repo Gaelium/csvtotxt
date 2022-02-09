@@ -12,4 +12,4 @@ with open(filename, encoding="utf8") as csvfile:
                 f.write(row[key])
             
 
-#To run, open a terminal, cd to the folder this file is in, and type "py csvhandler.py"
+#To run, open a terminal, cd to the folder this file is in, and type "py csvhandler.py" for powershell or "python csvhandler.py"
